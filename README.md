@@ -4,7 +4,7 @@
 
 ### A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology. 
 
-<p>Initiate contact by submitting an email address.</p>
+<p>Initiate contact by submitting an email address:</p>
 <section id="contact">
   <div class="container">
     <div class="row">
@@ -37,4 +37,5 @@
           </div>
         </form>
       </div>
-
+----------------------------------
+&copy; 2024
