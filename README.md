@@ -2,7 +2,7 @@
   <img src="LOGO_13.png">
  </p>
 
-<p align="center"><h2>A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology.</h2></p> 
+# A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology. 
 
 <p>Initiate contact by submitting an email address.</p>
 <section id="contact">
