@@ -5,14 +5,14 @@
 <p align="center"><h2>A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology.</h2></p> 
 
 <p>Initiate contact by submitting an email address.</p>
-<section id="contact" align="center">
+<section id="contact">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 text-center">
+      <div class="col-lg-8">
       </div>
     </div>
     <div class="row">
-      <div class="col-lg-8 text-center">
+      <div class="col-lg-8">
         <form action="https://formspree.io/f/xwpebvvn" method="POST" name="sentMessage" id="contactForm" novalidate>
           <div class="row control-group">
             </div>
@@ -31,7 +31,7 @@
           <div id="success">
             </div>
           <div class="row">
-            <div class="col-lg-8 text-center">
+            <div class="col-lg-8">
               <button type="submit" class="btn btn-success btn-lg">Send</button>
             </div>
           </div>
