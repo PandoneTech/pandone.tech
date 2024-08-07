@@ -38,4 +38,4 @@
         </form>
       </div>
 <br>
-&copy; 2024
+<p align="center"> &copy; 2024 </p>
