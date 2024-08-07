@@ -2,7 +2,7 @@
   <img src="LOGO_13.png">
  </p>
 
-<p>A private consultation business, secure your asymmetric advantage in a world of adversarial technology.</p> 
+<p align="center"><h2>A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology.</h2></p> 
 
 <p>Initiate contact by submitting an email address.</p>
 <section id="contact" align="center">
@@ -27,8 +27,6 @@
             <input type="hidden" name="_subject" value="New submission!">
             <input type="text" name="_gotcha" style="display:none" />
           </div>
-        </div>
-        </div>
           <br>
           <div id="success">
             </div>
@@ -39,5 +37,4 @@
           </div>
         </form>
       </div>
-    </section>
 
