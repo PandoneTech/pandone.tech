@@ -2,7 +2,7 @@
   <img src="LOGO_13.png">
  </p>
 
-### A private consultation business, helping clients secure an asymmetric advantage in a world of adversarial technology. 
+### A private consultation business focused on emerging technologies and industrial applications. 
 
 <p>Initiate contact by submitting an email address:</p>
 <section id="contact">
