@@ -24,7 +24,7 @@
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="email">Email Address</label>
-              <input type="email" name="_replyto" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+              <input type="email" name="_replyto" class="form-control" placeholder="example@domain.com" id="email" required data-validation-required-message="Please enter your email address.">
               <p class="help-block text-danger"></p>
             </div>
           </div>
