@@ -42,5 +42,8 @@
           </div>
         </form>
       </div>
+    </div>
+  </div>
+</section>
 <br>
 <p align="center"> &copy; 2025 </p>
