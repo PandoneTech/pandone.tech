@@ -7,6 +7,8 @@
   <img width="300" src="LOGO_17.png">
  </p>
 
+<h1 align="center">Pandone Technology Solutions, LLC</h1>
+
 ### A private consultation business focused on emerging technologies and industrial applications. 
 
 <p>Initiate contact by submitting an email address:</p>
@@ -46,4 +48,4 @@
   </div>
 </section>
 <br>
-<p align="center"> &copy; 2025 </p>
+<p align="center"> &copy; 2025 Pandone Technology Solutions, LLC</p>
