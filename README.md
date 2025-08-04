@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO_13.png">
+  <img src="LOGO_16.png">
  </p>
 
 ### A private consultation business focused on emerging technologies and industrial applications. 
