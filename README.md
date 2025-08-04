@@ -4,7 +4,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <p align="center">
-  <img src="LOGO_16.png">
+  <img width="300" src="LOGO_17.png">
  </p>
 
 ### A private consultation business focused on emerging technologies and industrial applications. 
